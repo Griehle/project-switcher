@@ -1,0 +1,19 @@
+{
+  "projectsRoot": "/Users/you/code",
+  "projects": [
+    {
+      "name": "my-site",
+      "path": "/Users/you/code/my-site",
+      "aliases": ["site"],
+      "note": "Marketing site",
+      "group": "main"
+    },
+    {
+      "name": "old-experiment",
+      "path": "/Users/you/code/old-experiment",
+      "aliases": [],
+      "note": "",
+      "group": "more"
+    }
+  ]
+}

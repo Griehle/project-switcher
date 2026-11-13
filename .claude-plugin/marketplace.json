@@ -1,0 +1,12 @@
+{
+  "name": "project-switcher",
+  "owner": { "name": "Griehle" },
+  "description": "Switch between your projects in Claude Code and pick up where you left off.",
+  "plugins": [
+    {
+      "name": "project-switcher",
+      "source": "./",
+      "description": "A Projects pane plus /work, /park and /new-project: switch between your projects and pick up where you left off."
+    }
+  ]
+}

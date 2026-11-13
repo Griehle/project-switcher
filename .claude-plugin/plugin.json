@@ -1,0 +1,9 @@
+{
+  "name": "project-switcher",
+  "version": "0.2.0",
+  "description": "A Projects pane plus /work, /park and /new-project: switch between your projects and pick up where you left off. Reads ~/.claude/projects.json.",
+  "author": { "name": "Griehle" },
+  "repository": "https://github.com/Griehle/project-switcher",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
